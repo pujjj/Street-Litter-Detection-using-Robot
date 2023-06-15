@@ -1,4 +1,4 @@
-# Street-Litter-Detection-using-Robot
+# Street-Litter-Detection-Robot
 We are developing a robot with various sensors and actuators that can perform tasks such as detecting moisture in soil and water, detecting objects using an ultrasonic sensor, and detecting litter and retrieving it with a crane arm.The robot is also programmed to move away from obstructions or highly damp soil. This project aims to create a robot that can perform useful tasks autonomously based on the data it collects from its sensors. 
 
 The robot utilizes DC motors and an ultrasonic sensor HC-SR04 and can navigate through environments with obstacles with ease. 
